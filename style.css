@@ -1,0 +1,18 @@
+.game {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.scoreboard {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap:2rem;
+}
+.options{ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
